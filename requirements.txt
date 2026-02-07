@@ -7,3 +7,4 @@ xgboost>=1.7
 lightgbm>=3.3
 seaborn>=0.12
 hampel
+imbalanced-learn>=0.10
